@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.firstbox{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    
+    width:100vw ;
+    height:800px; 
+    background-color:white
+   
+    
+}
+.header{
+    text-align: center;
+    color: rgba(0, 13, 15, 0.904);
+    
+   height:100px; ;
+
+    
+    
+
+}
+.header h1{
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header h3{
+    
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sociallink{
+
+    display: flex;
+    justify-content: space-between;
+     margin-left:25px ;
+     margin-right: 20px;;
+    
+
+}
+.sociallink i{
+    
+    width:35px; 
+    height:25px;
+
+}
+
+
+ a{
+    text-decoration: none;
+}
+
+.skill ul{
+    line-height:27px; 
+    margin-left:50px; 
+    list-style-type: square;
+    
+    
+
+}
+.Experience ul{
+    margin-left:50px; 
+    list-style-type: square;
+    line-height: 27px;
+}
+.Education  p{
+    text-align: right;
+    margin-right:40px ;
+
+    
+    
+}
+.Education ul{
+    line-height:27px; 
+    margin-left:50px; 
+    list-style-type: square;
+   
+    
+
+}
+.hobbies ul{
+    line-height:27px; 
+    margin-left:50px; 
+    list-style-type: square;
+    
+    
+
+}
+.contactme {
+
+    line-height:30px; 
+}
+
+.contactme p{
+    margin-left:50px; 
+    
+}
+
